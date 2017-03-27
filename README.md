@@ -1,6 +1,16 @@
 VirtacoinPlus is a hybrid PoW/PoS cryptocurrency.
 ---------------------------------------------
 
+NOTE:
+------
+
+Update the github with this info
+
+We have XVP with 100m max coin, 9million of that was premined of which 7.46m was used to swap VTA for XVP and the 
+remainder 1534593.43482710 was burnt to address VWzYoz6fZ84bfQWvDNDnYznXcodoMvYPhy which is verifiable through the explorer.
+Mining reword is now 2.7 per block and maximum 2.6 Million per Year, It's 2.7 coins per block and lower for 100,000 every year.
+
+
 Mainnet:
 ---------
 
