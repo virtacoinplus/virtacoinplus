@@ -4,11 +4,16 @@ VirtacoinPlus is a hybrid PoW/PoS cryptocurrency.
 NOTE:
 ------
 
-Update the github with this info
+9,000,000 Virtacoinplus was premined. 7,465,606.5652 of  9,000,000 was used to swap Virtacoin (VTA) for Virtacoinplus (XVP) 
+and the remainder 1,534,593.43482710 was burnt to address VWzYoz6fZ84bfQWvDNDnYznXcodoMvYPhy  which is verifiable through 
+the explorer: http://blockchain.virtacoinworld.com/richlist 
 
-We have XVP with 100m max coin, 9million of that was premined of which 7.46m was used to swap VTA for XVP and the 
-remainder 1534593.43482710 was burnt to address VWzYoz6fZ84bfQWvDNDnYznXcodoMvYPhy which is verifiable through the explorer.
-Mining reword is now 2.7 per block and maximum 2.6 Million per Year, It's 2.7 coins per block and lower for 100,000 every year.
+
+WEBSITES:
+---------
+- http://virtacoin-plus.com/
+- http://virtacoinplus.uk/
+- official Site http://www.virtacoinplus.com (under construction )
 
 
 Mainnet:
@@ -26,14 +31,14 @@ Testnet:
 Specifications:
 ---------------
 
+Updated after 1,000,000 XVP was mined
 - Short: XVP
 - Total coin: 100 Million coin cap.
 - X11 hashing algorithm
-- Block time: 1 minute
-- diff. retarget 15 blocks
-- premine 9M
-- POW reward 30 XVP per Block
-- Stake Interest: 7%
+- 60 second block time target 
+- Difficulty retargets every 15 blocks
+- POW reward 2.7 coins per Block, reduces by 0.1 coins each 525600 blocks starting 23/03/2017
+- Stake Interest: 7% annually
 - Minimum Stake Age, 24 hours, One Year Max age
 
 License
