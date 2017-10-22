@@ -38,6 +38,11 @@ NOTE:
 - http://coinminers.net/
 - https://www.e-pool.net/
 
+<b>BLOCK EXPLORERS</b>
+--------------
+- https://chainz.cryptoid.info/xvp/#
+
+
 
 Mainnet:
 ---------
