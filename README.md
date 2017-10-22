@@ -4,16 +4,38 @@ VirtacoinPlus is a hybrid PoW/PoS cryptocurrency.
 NOTE:
 ------
 
-9,000,000 Virtacoinplus was premined. 7,465,606.5652 of  9,000,000 was used to swap Virtacoin (VTA) for Virtacoinplus (XVP) 
-and the remainder 1,534,593.43482710 was burnt to address VWzYoz6fZ84bfQWvDNDnYznXcodoMvYPhy  which is verifiable through 
-the explorer: http://blockchain.virtacoinworld.com/richlist 
+9,000,000 Virtacoinplus was premined and used to swap Virtacoin (VTA) for Virtacoinplus (XVP) at a 1:1000 ratio. Great care was taken to make sure no single person would own more than 1% of initial XVP distribution. 
 
-
-WEBSITES:
+<b>WEBSITES:</b>
 ---------
-- http://virtacoin-plus.com/
+- http://xvpworld.com
+- https://virtacoinworld.com
 - http://virtacoinplus.uk/
-- official Site http://www.virtacoinplus.com (under construction )
+- http://radioxvp.com/
+- https://virtacoinwallet.eu
+
+<b>FORUMS:</b>
+-------
+- BTT ANN Thread: https://bitcointalk.org/index.php?topic=1851562.new#new
+- Reddit: https://www.reddit.com/r/XVP/
+- Reddit: https://www.reddit.com/r/VirtaCoinFoundation/
+- Telegram: https://t.me/joinchat/FSt5gkJ8S_Kz0Hyexk9h9Q
+- Ryver: https://virtacoinplus.ryver.com/application/login
+
+<b>EXCHANGES:</b>
+----------
+- https://bleutrade.com
+- https://novaexchange.com/
+- https://xvplocalmaket.virtacoinworld.com
+- https://tradesatoshi.com//
+- https://www.coingather.com/
+
+<b>MINING POOLS:</b>
+-------------
+http://p2pool.e-pool.net:5896/static/
+http://www.bitcoin-pool.de
+http://coinminers.net/
+https://www.e-pool.net/
 
 
 Mainnet:
@@ -37,7 +59,7 @@ Updated after 1,000,000 XVP was mined
 - X11 hashing algorithm
 - 60 second block time target 
 - Difficulty retargets every 15 blocks
-- POW reward 2.7 coins per Block, reduces by 0.1 coins each 525600 blocks starting 23/03/2017
+- POW reward 2.7 coins per Block, reduces by 0.2 coins each 525600 blocks starting 23/03/2017
 - Stake Interest: 7% annually
 - Minimum Stake Age, 24 hours, One Year Max age
 
