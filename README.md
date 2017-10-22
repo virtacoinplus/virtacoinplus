@@ -32,10 +32,10 @@ NOTE:
 
 <b>MINING POOLS:</b>
 -------------
-http://p2pool.e-pool.net:5896/static/
-http://www.bitcoin-pool.de
-http://coinminers.net/
-https://www.e-pool.net/
+- http://p2pool.e-pool.net:5896/static/
+- http://www.bitcoin-pool.de
+- http://coinminers.net/
+- https://www.e-pool.net/
 
 
 Mainnet:
