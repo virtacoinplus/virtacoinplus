@@ -13,6 +13,7 @@ NOTE:
 - http://virtacoinplus.uk/
 - http://radioxvp.com/
 - https://virtacoinwallet.eu
+- http://market.virtacoin.plus/market
 
 <b>FORUMS:</b>
 -------
