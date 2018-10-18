@@ -9,11 +9,10 @@ NOTE:
 <b>WEBSITES:</b>
 ---------
 - http://xvpworld.com
-- https://virtacoinworld.com
-- http://virtacoinplus.uk/
-- http://radioxvp.com/
 - https://virtacoinwallet.eu
+- http://virtacoinplus.uk/
 - http://market.virtacoin.plus/market
+  
 
 <b>FORUMS:</b>
 -------
