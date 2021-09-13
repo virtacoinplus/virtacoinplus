@@ -9,7 +9,6 @@ NOTE:
 <b>WEBSITES:</b>
 ---------
 - http://www.virtacoinplus.net
-- http://market.virtacoin.plus/market
 
 <b>FORUMS:</b>
 -------
@@ -26,10 +25,8 @@ NOTE:
 
 <b>MINING POOLS:</b>
 -------------
-- http://p2pool.e-pool.net:5896/static/
-- http://www.bitcoin-pool.de
-- http://coinminers.net/
-- https://www.e-pool.net/
+- https://www.mining-dutch.nl
+- https://coins4u.cc
 
 <b>BLOCK EXPLORERS</b>
 --------------
