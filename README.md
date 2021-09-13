@@ -8,7 +8,7 @@ NOTE:
 
 <b>WEBSITES:</b>
 ---------
-- http://www.virtacoin.net
+- http://www.virtacoinplus.net
 - http://market.virtacoin.plus/market
 
 <b>FORUMS:</b>
@@ -21,11 +21,8 @@ NOTE:
 
 <b>EXCHANGES:</b>
 ----------
-- https://bleutrade.com
-- https://novaexchange.com/
-- https://xvplocalmaket.virtacoinworld.com
-- https://tradesatoshi.com//
-- https://www.coingather.com/
+- https://www.ataix.com
+- https://www.safecrex.com
 
 <b>MINING POOLS:</b>
 -------------
